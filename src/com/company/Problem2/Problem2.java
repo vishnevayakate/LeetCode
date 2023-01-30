@@ -27,7 +27,7 @@ public class Problem2 {
 
     public static void main(String[] args) {
         Problem2 problem = new Problem2();
-        int[] arr = problem.runningSum(new int[] {1,3,5,7});
+        int[] arr = problem.runningSum(new int[] {1,1,1,1});
         System.out.println(arr.toString());
 
     }
